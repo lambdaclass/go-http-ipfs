@@ -11,7 +11,7 @@
 1. In a new shell clone and move into this directory: `git clone https://github.com/lambdaclass/go-http-ipfs.git && go-http-ipfs`
 1. Build and run the Go server: `go run`
 
-Now you will the HTTP server running in port 8080.
+Now you will have the HTTP server running in port 8080.
 
 # Endpoints
 
